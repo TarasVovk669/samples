@@ -1,112 +1,114 @@
-"operator-one-response": [
-  {
-    "propositionId": "001",
-    "startDate": "2024-06-01T14:30:00",
-    "endDate": "2024-06-10T10:00:00",
-    "price": "499.99",
-    "currency": "USD",
-    "days": 9,
-    "hotelName": "Grand Hotel",
-    "hotelRating": "5",
-    "hotelCountryCode": "US"
-  },
-  {
-    "propositionId": "002",
-    "startDate": "2024-07-01T14:30:00",
-    "endDate": "2024-07-10T10:00:00",
-    "price": "599.99",
-    "currency": "USD",
-    "days": 9,
-    "hotelName": "Beach Resort",
-    "hotelRating": "4",
-    "hotelCountryCode": "US"
-  },
-  {
-    "propositionId": "003",
-    "startDate": "2024-08-01T14:30:00",
-    "endDate": "2024-08-10T10:00:00",
-    "price": "699.99",
-    "currency": "EUR",
-    "days": 9,
-    "hotelName": "City Hotel",
-    "hotelRating": "5",
-    "hotelCountryCode": "FR"
-  },
-  {
-    "propositionId": "004",
-    "startDate": "2024-09-01T14:30:00",
-    "endDate": "2024-09-10T10:00:00",
-    "price": "799.99",
-    "currency": "GBP",
-    "days": 9,
-    "hotelName": "Mountain Lodge",
-    "hotelRating": "5",
-    "hotelCountryCode": "UK"
-  },
-  {
-    "propositionId": "005",
-    "startDate": "2024-10-01T14:30:00",
-    "endDate": "2024-10-10T10:00:00",
-    "price": "899.99",
-    "currency": "USD",
-    "days": 9,
-    "hotelName": "Desert Oasis",
-    "hotelRating": "4",
-    "hotelCountryCode": "US"
-  },
-  {
-    "propositionId": "006",
-    "startDate": "2024-11-01T14:30:00",
-    "endDate": "2024-11-10T10:00:00",
-    "price": "999.99",
-    "currency": "CAD",
-    "days": 9,
-    "hotelName": "Lake House",
-    "hotelRating": "3",
-    "hotelCountryCode": "CA"
-  },
-  {
-    "propositionId": "007",
-    "startDate": "2024-12-01T14:30:00",
-    "endDate": "2024-12-10T10:00:00",
-    "price": "1099.99",
-    "currency": "AUD",
-    "days": 9,
-    "hotelName": "Island Retreat",
-    "hotelRating": "5",
-    "hotelCountryCode": "AU"
-  },
-  {
-    "propositionId": "008",
-    "startDate": "2024-01-01T14:30:00",
-    "endDate": "2024-01-10T10:00:00",
-    "price": "1199.99",
-    "currency": "JPY",
-    "days": 9,
-    "hotelName": "Ski Resort",
-    "hotelRating": "4",
-    "hotelCountryCode": "JP"
-  },
-  {
-    "propositionId": "009",
-    "startDate": "2024-02-01T14:30:00",
-    "endDate": "2024-02-10T10:00:00",
-    "price": "1299.99",
-    "currency": "USD",
-    "days": 9,
-    "hotelName": "Historic Inn",
-    "hotelRating": "3",
-    "hotelCountryCode": "US"
-  },
-  {
-    "propositionId": "010",
-    "startDate": "2024-03-01T14:30:00",
-    "endDate": "2024-03-10T10:00:00",
-    "price": "1399.99",
-    "currency": "EUR",
-    "days": 9,
-    "hotelName": "Countryside Manor",
-    "hotelRating": "5",
-    "hotelCountryCode": "IT"
-  }
-]
+{
+  "operator-one-response": [
+    {
+      "propositionId": "001",
+      "startDate": "2024-06-01T14:30:00",
+      "endDate": "2024-06-10T10:00:00",
+      "price": "499.99",
+      "currency": "USD",
+      "days": 9,
+      "hotelName": "Grand Hotel",
+      "hotelRating": "5",
+      "hotelCountryCode": "US"
+    },
+    {
+      "propositionId": "002",
+      "startDate": "2024-07-01T14:30:00",
+      "endDate": "2024-07-10T10:00:00",
+      "price": "599.99",
+      "currency": "USD",
+      "days": 9,
+      "hotelName": "Beach Resort",
+      "hotelRating": "4",
+      "hotelCountryCode": "US"
+    },
+    {
+      "propositionId": "003",
+      "startDate": "2024-08-01T14:30:00",
+      "endDate": "2024-08-10T10:00:00",
+      "price": "699.99",
+      "currency": "EUR",
+      "days": 9,
+      "hotelName": "City Hotel",
+      "hotelRating": "5",
+      "hotelCountryCode": "FR"
+    },
+    {
+      "propositionId": "004",
+      "startDate": "2024-09-01T14:30:00",
+      "endDate": "2024-09-10T10:00:00",
+      "price": "799.99",
+      "currency": "GBP",
+      "days": 9,
+      "hotelName": "Mountain Lodge",
+      "hotelRating": "5",
+      "hotelCountryCode": "UK"
+    },
+    {
+      "propositionId": "005",
+      "startDate": "2024-10-01T14:30:00",
+      "endDate": "2024-10-10T10:00:00",
+      "price": "899.99",
+      "currency": "USD",
+      "days": 9,
+      "hotelName": "Desert Oasis",
+      "hotelRating": "4",
+      "hotelCountryCode": "US"
+    },
+    {
+      "propositionId": "006",
+      "startDate": "2024-11-01T14:30:00",
+      "endDate": "2024-11-10T10:00:00",
+      "price": "999.99",
+      "currency": "CAD",
+      "days": 9,
+      "hotelName": "Lake House",
+      "hotelRating": "3",
+      "hotelCountryCode": "CA"
+    },
+    {
+      "propositionId": "007",
+      "startDate": "2024-12-01T14:30:00",
+      "endDate": "2024-12-10T10:00:00",
+      "price": "1099.99",
+      "currency": "AUD",
+      "days": 9,
+      "hotelName": "Island Retreat",
+      "hotelRating": "5",
+      "hotelCountryCode": "AU"
+    },
+    {
+      "propositionId": "008",
+      "startDate": "2024-01-01T14:30:00",
+      "endDate": "2024-01-10T10:00:00",
+      "price": "1199.99",
+      "currency": "JPY",
+      "days": 9,
+      "hotelName": "Ski Resort",
+      "hotelRating": "4",
+      "hotelCountryCode": "JP"
+    },
+    {
+      "propositionId": "009",
+      "startDate": "2024-02-01T14:30:00",
+      "endDate": "2024-02-10T10:00:00",
+      "price": "1299.99",
+      "currency": "USD",
+      "days": 9,
+      "hotelName": "Historic Inn",
+      "hotelRating": "3",
+      "hotelCountryCode": "US"
+    },
+    {
+      "propositionId": "010",
+      "startDate": "2024-03-01T14:30:00",
+      "endDate": "2024-03-10T10:00:00",
+      "price": "1399.99",
+      "currency": "EUR",
+      "days": 9,
+      "hotelName": "Countryside Manor",
+      "hotelRating": "5",
+      "hotelCountryCode": "IT"
+    }
+  ]
+}
