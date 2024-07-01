@@ -1,7 +1,8 @@
 {
     "operator-one-response": [
         {
-            "propositionId": "001",
+            "id": 1,
+            "propositionId": "1",
             "startDate": "2024-06-01T14:30:00",
             "endDate": "2024-06-10T10:00:00",
             "price": "499.99",
@@ -11,8 +12,8 @@
             "hotelRating": "5",
             "hotelCountryCode": "US"
         },
-        {
-            "propositionId": "002",
+        {"id": 1,
+            "propositionId": "2",
             "startDate": "2024-07-01T14:30:00",
             "endDate": "2024-07-10T10:00:00",
             "price": "599.99",
@@ -22,8 +23,8 @@
             "hotelRating": "4",
             "hotelCountryCode": "US"
         },
-        {
-            "propositionId": "003",
+        {"id": 1,
+            "propositionId": "3",
             "startDate": "2024-08-01T14:30:00",
             "endDate": "2024-08-10T10:00:00",
             "price": "699.99",
@@ -33,8 +34,8 @@
             "hotelRating": "5",
             "hotelCountryCode": "FR"
         },
-        {
-            "propositionId": "004",
+        {"id": 1,
+            "propositionId": "4",
             "startDate": "2024-09-01T14:30:00",
             "endDate": "2024-09-10T10:00:00",
             "price": "799.99",
@@ -44,8 +45,8 @@
             "hotelRating": "5",
             "hotelCountryCode": "UK"
         },
-        {
-            "propositionId": "005",
+        {"id": 1,
+            "propositionId": "5",
             "startDate": "2024-10-01T14:30:00",
             "endDate": "2024-10-10T10:00:00",
             "price": "899.99",
@@ -55,8 +56,8 @@
             "hotelRating": "4",
             "hotelCountryCode": "US"
         },
-        {
-            "propositionId": "006",
+        {"id": 1,
+            "propositionId": "6",
             "startDate": "2024-11-01T14:30:00",
             "endDate": "2024-11-10T10:00:00",
             "price": "999.99",
@@ -66,8 +67,8 @@
             "hotelRating": "3",
             "hotelCountryCode": "CA"
         },
-        {
-            "propositionId": "007",
+        {"id": 1,
+            "propositionId": "7",
             "startDate": "2024-12-01T14:30:00",
             "endDate": "2024-12-10T10:00:00",
             "price": "1099.99",
@@ -77,8 +78,8 @@
             "hotelRating": "5",
             "hotelCountryCode": "AU"
         },
-        {
-            "propositionId": "008",
+        {"id": 1,
+            "propositionId": "8",
             "startDate": "2024-01-01T14:30:00",
             "endDate": "2024-01-10T10:00:00",
             "price": "1199.99",
@@ -88,8 +89,8 @@
             "hotelRating": "4",
             "hotelCountryCode": "JP"
         },
-        {
-            "propositionId": "009",
+        {"id": 1,
+            "propositionId": "9",
             "startDate": "2024-02-01T14:30:00",
             "endDate": "2024-02-10T10:00:00",
             "price": "1299.99",
@@ -99,8 +100,8 @@
             "hotelRating": "3",
             "hotelCountryCode": "US"
         },
-        {
-            "propositionId": "010",
+        {"id": 1,
+            "propositionId": "10",
             "startDate": "2024-03-01T14:30:00",
             "endDate": "2024-03-10T10:00:00",
             "price": "1399.99",
